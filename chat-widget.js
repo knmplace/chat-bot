@@ -65,8 +65,8 @@
         }
 
         .n8n-chat-widget .brand-header img {
-            width: 32px;
-            height: 32px;
+            width: 60px;
+            height: 60px;
         }
 
         .n8n-chat-widget .brand-header span {
